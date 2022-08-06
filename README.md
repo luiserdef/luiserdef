@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luis
-- 👀 I’m interested in Frontend development
+- 💻 I’m interested in Frontend development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on web development projects
+- 💡 I’m looking to collaborate on web development projects
 
 <!---
 lsxmz/lsxmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
