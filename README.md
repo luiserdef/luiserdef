@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis
 - 💻 I’m interested in Frontend development
-- 🌱 I’m currently doings things with React
+- 🌱 I’m currently doing things with React
 - 💡 I’m looking to collaborate on web development projects
 
 
