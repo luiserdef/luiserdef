@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Luis
-- 💻 Frontend development
+- 💻 Web development
 - 🌱 I’m currently doing things with React
-- 💡 I’m looking to collaborate on web development projects
 
 
 ### Languages and Tools:
