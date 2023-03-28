@@ -1,6 +1,6 @@
 - 👋 Hola! Soy Luis
-- 🌱 Desarrollador Frontend autodidacta. Haciendo cosas con React pero buscando siempre experimentar también con otras tecnologias. 
-- 💻 Desarrollo Web
+- 🌱 Haciendo cosas con React pero buscando siempre experimentar también con otras tecnologias. 
+- 💻 Desarrollo Web | Frontend
 
 
 
