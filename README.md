@@ -1,6 +1,6 @@
 - 👋 Hola! Soy Luis
 - 🌱 Haciendo cosas con React pero buscando siempre experimentar también con otras tecnologias. 
-- 💻 Desarrollo Web | Frontend
+- 💻 Desarrollo Web
 
 
 
